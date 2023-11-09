@@ -13,7 +13,7 @@
     "foreman": "2.0.0",
     "hjs": "0.0.6",
     "morgan": "1.6.1",
-    "nodemon": "1.10.2",
+    "nodemon": "1.19.4",
     "socket.io": "1.4.8",
     "twilio": "2.9.2"
   }
